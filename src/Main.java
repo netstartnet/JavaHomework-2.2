@@ -13,6 +13,6 @@ public class Main {
 
         int totalAccount = customersBalance + refillAmount + bonus;
 
-        //System.out.println("Вы пополнили счёт на - " + refillAmount + " руб." + " Ваш бонус составил - " + bonus + " руб." + " Ваш баланс: " + totalAccount + " руб.");
+        System.out.println("Вы пополнили счёт на - " + refillAmount + " руб." + " Ваш бонус составил - " + bonus + " руб." + " Ваш баланс: " + totalAccount + " руб.");
     }
 }
